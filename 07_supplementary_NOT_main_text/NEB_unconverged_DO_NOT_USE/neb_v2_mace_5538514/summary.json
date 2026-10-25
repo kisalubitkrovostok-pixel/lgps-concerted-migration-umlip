@@ -1,0 +1,82 @@
+{
+  "potential": "mace",
+  "supercell": [
+    2,
+    1,
+    2
+  ],
+  "fixed_Li": true,
+  "n_sites": 12,
+  "n_occupied": 8,
+  "runs": {
+    "n1": {
+      "n_moving": 1,
+      "moving_Li": [
+        18
+      ],
+      "hop_lengths_A": [
+        1.99
+      ],
+      "from_sites": [
+        0
+      ],
+      "to_sites": [
+        1
+      ],
+      "barrier_forward_eV": 10.2364,
+      "barrier_backward_eV": 8.4862,
+      "dE_final_eV": 1.7501,
+      "converged": false
+    },
+    "n2": {
+      "n_moving": 2,
+      "moving_Li": [
+        18,
+        26
+      ],
+      "hop_lengths_A": [
+        1.99,
+        3.44
+      ],
+      "from_sites": [
+        0,
+        11
+      ],
+      "to_sites": [
+        1,
+        0
+      ],
+      "barrier_forward_eV": 5.1038,
+      "barrier_backward_eV": 2.3754,
+      "dE_final_eV": 2.7284,
+      "converged": false
+    },
+    "n3": {
+      "n_moving": 3,
+      "moving_Li": [
+        18,
+        26,
+        34
+      ],
+      "hop_lengths_A": [
+        1.99,
+        3.44,
+        3.18
+      ],
+      "from_sites": [
+        0,
+        11,
+        10
+      ],
+      "to_sites": [
+        1,
+        0,
+        11
+      ],
+      "barrier_forward_eV": 2.6031,
+      "barrier_backward_eV": 0.0,
+      "dE_final_eV": 2.6031,
+      "converged": false
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "material": "LGPS",
+  "potential": "sevennet",
+  "T": 700.0,
+  "dt_fs": 2.0,
+  "every": 25,
+  "supercell": [
+    2,
+    1,
+    2
+  ],
+  "equil_ps": 10.0,
+  "seed": 42,
+  "thermostat": "Bussi",
+  "taut_fs": 100,
+  "structure_sha256": "6901be18427a9c676e9c8b1cb58f8d756e0924d55db74d0ee928e889613faf1e",
+  "dtype": "float32"
+}

@@ -1,0 +1,3 @@
+n,event,t_start_ps,ions,event_shifts_A,dR_md_A,E_fwd_eV,E_bwd_eV,E_KRA_eV,dE_eV,converged
+1,0,169.2,67,1.92,2.561,0.0903,0.0349,0.0626,0.0554,True
+1,1,235.0,162,1.59,2.233,0.0516,0.0841,0.0679,-0.0325,True

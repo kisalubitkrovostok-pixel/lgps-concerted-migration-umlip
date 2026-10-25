@@ -22,7 +22,7 @@ Exact package versions: `06_scripts_methods/environment-sevennet.txt`.
 | `02_data_concerted_events/` | Event lists, size histograms, summaries (main and Sato parameters), 27-combination scan, Haven ratio |
 | `03_data_NEB/A_idealized_c_channel_NEB/` | NEB for n = 1–4 ions in the ideal c-channel: profiles (`.csv`), paths (`.traj`), logs, `summary_barriers.json` |
 | `03_data_NEB/B_NEB_on_events_from_MD/` | NEB on hops extracted from MD (2 converged single-ion hops), candidate logs for n = 2–4 |
-| `04_data_MD_run/` | 300 ps trajectory (`md_trajectory_300ps_LINK.traj`, ASE format, 6001 frames), `log.csv`, settings, time-step test |
+| `04_data_MD_run/` | `log.csv`, settings, time-step test; the 300 ps trajectory (64 MB, ASE format, 6001 frames) is in [release v1.0](https://github.com/kisalubitkrovostok-pixel/lgps-concerted-migration-umlip/releases/tag/v1.0), see `TRAJECTORY_DOWNLOAD.md` |
 | `05_structure/` | Input structure and its Materials Project record |
 | `06_scripts_methods/` | All scripts (see below) |
 | `07_supplementary_NOT_main_text/` | Not used in the main text: MACE-MP-0 comparison, unconverged NEB attempts (do not use) |

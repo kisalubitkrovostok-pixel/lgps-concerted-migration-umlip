@@ -1,0 +1,7 @@
+LGPS / SevenNet / 700 K
+Source: /s/ls4/users/archbtwww/umlip-benchmark/runs/LGPS_sevennet_700K/md.traj
+d_hop: 1.8 1.4 2.2 A
+tau: 2.35 1.5 4 ps
+rcut: 2.0 1.6 2.4 A
+scan.csv: all 27 combinations
+summary.json, paths.csv, size_hist.csv, concerted.png: first combination (1.8 A, 2.35 ps, 2.0 A)

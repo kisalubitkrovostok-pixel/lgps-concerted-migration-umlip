@@ -1,0 +1,136 @@
+{
+ "tau_ps": 2.35,
+ "r_cut_A": 2.0,
+ "d_hop_A": 1.8,
+ "windows": 74,
+ "hops_total": 2403,
+ "hop_fraction_per_window": 0.406,
+ "events_total": 1014,
+ "closed_loops": 5,
+ "events_per_ps": 5.831,
+ "concerted_events_n_ge_2": 542,
+ "concerted_events_per_ps": 3.117,
+ "mean_n_event_weighted": 2.374,
+ "mean_n_ion_weighted": 3.916,
+ "frac_hops_in_concerted": 0.804,
+ "N_n": [
+  472,
+  217,
+  115,
+  82,
+  42,
+  44,
+  18,
+  8,
+  6,
+  5,
+  2,
+  1,
+  2
+ ],
+ "P_n_ion_weighted": [
+  0.1961,
+  0.1803,
+  0.1433,
+  0.1363,
+  0.0872,
+  0.1097,
+  0.0523,
+  0.0266,
+  0.0224,
+  0.0208,
+  0.0091,
+  0.005,
+  0.0108
+ ],
+ "D_corr_cm2_s": 0.0003467,
+ "D_self_cm2_s": 2.511e-05,
+ "sigmaDG_over_sigmaNE": 2.365,
+ "frac_along_c_singles": 0.481,
+ "frac_along_c_concerted": 0.384,
+ "median_dR_per_ion_concerted_A": 2.449,
+ "per_n": {
+  "1": {
+   "count": 472,
+   "median_dR_A": 2.15,
+   "frac_along_c": 0.48
+  },
+  "2": {
+   "count": 217,
+   "median_dR_A": 5.32,
+   "frac_along_c": 0.37
+  },
+  "3": {
+   "count": 115,
+   "median_dR_A": 7.37,
+   "frac_along_c": 0.3
+  },
+  "4": {
+   "count": 82,
+   "median_dR_A": 8.94,
+   "frac_along_c": 0.41
+  },
+  "5": {
+   "count": 42,
+   "median_dR_A": 11.04,
+   "frac_along_c": 0.38
+  },
+  "6": {
+   "count": 44,
+   "median_dR_A": 13.35,
+   "frac_along_c": 0.52
+  },
+  "7": {
+   "count": 18,
+   "median_dR_A": 16.25,
+   "frac_along_c": 0.44
+  },
+  "8": {
+   "count": 8,
+   "median_dR_A": 11.5,
+   "frac_along_c": 0.38
+  },
+  "9": {
+   "count": 6,
+   "median_dR_A": 15.51,
+   "frac_along_c": 0.33
+  },
+  "10": {
+   "count": 5,
+   "median_dR_A": 19.26,
+   "frac_along_c": 0.8
+  },
+  "11": {
+   "count": 2,
+   "median_dR_A": 19.11,
+   "frac_along_c": 0.5
+  },
+  "12": {
+   "count": 1,
+   "median_dR_A": 23.79,
+   "frac_along_c": 1.0
+  }
+ },
+ "run": "LGPS_mace_700K",
+ "frames_used": 3492,
+ "t_ps": 174.6,
+ "n_Li": 80,
+ "Li_Li_nn_mode_A": 2.975000000000002,
+ "cell_A": [
+  [
+   17.57529,
+   0.0,
+   0.0
+  ],
+  [
+   0.0,
+   8.78765,
+   0.0
+  ],
+  [
+   0.0,
+   0.0,
+   25.31509
+  ]
+ ]
+}

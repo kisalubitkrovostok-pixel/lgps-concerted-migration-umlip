@@ -1,0 +1,20 @@
+{
+ "source_trajectory": "runs/LGPS_sevennet_700K/md.traj",
+ "source_frame": -1,
+ "material": "LGPS",
+ "potential": "sevennet",
+ "T": 700.0,
+ "natoms": 200,
+ "dt1fs": {
+  "drift_meV_per_atom_per_ps": -0.0001,
+  "fluct_std_meV_per_atom": 0.0038,
+  "sec_per_step": 0.7037,
+  "T_final_K": 728.0
+ },
+ "dt2fs": {
+  "drift_meV_per_atom_per_ps": 0.0003,
+  "fluct_std_meV_per_atom": 0.0161,
+  "sec_per_step": 0.6464,
+  "T_final_K": 696.0
+ }
+}

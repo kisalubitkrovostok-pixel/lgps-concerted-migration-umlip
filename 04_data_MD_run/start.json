@@ -1,0 +1,6 @@
+{
+ "P_virial_start_GPa": 0.178,
+ "max_force_start_eV_A": 0.08,
+ "volume_A3": 3909.8,
+ "seed": 42
+}

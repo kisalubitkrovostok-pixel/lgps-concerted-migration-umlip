@@ -1,0 +1,66 @@
+{
+  "supercell": [
+    2,
+    1,
+    2
+  ],
+  "natoms_with_vacancy": 199,
+  "channel_z_A": [
+    0.46,
+    3.73,
+    6.79,
+    10.06,
+    13.12,
+    16.39,
+    19.45,
+    22.71
+  ],
+  "runs": {
+    "n1": {
+      "n_moving": 1,
+      "barrier_forward_eV": 0.0474,
+      "barrier_backward_eV": 0.0093,
+      "dE_final_eV": 0.0381,
+      "converged": true,
+      "endpoint_shift_A": [
+        0.05
+      ]
+    },
+    "n2": {
+      "n_moving": 2,
+      "barrier_forward_eV": 0.0271,
+      "barrier_backward_eV": 0.187,
+      "dE_final_eV": -0.1599,
+      "converged": true,
+      "endpoint_shift_A": [
+        1.41,
+        1.75
+      ]
+    },
+    "n3": {
+      "n_moving": 3,
+      "barrier_forward_eV": 0.0121,
+      "barrier_backward_eV": 0.1624,
+      "dE_final_eV": -0.1503,
+      "converged": true,
+      "endpoint_shift_A": [
+        1.41,
+        1.73,
+        1.38
+      ]
+    },
+    "n4": {
+      "n_moving": 4,
+      "barrier_forward_eV": 0.1519,
+      "barrier_backward_eV": 0.1519,
+      "dE_final_eV": -0.0001,
+      "converged": true,
+      "endpoint_shift_A": [
+        2.1,
+        2.06,
+        2.49,
+        2.11
+      ]
+    }
+  }
+}
