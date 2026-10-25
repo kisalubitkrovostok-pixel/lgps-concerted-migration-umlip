@@ -1,4 +1,4 @@
-""Этот скрипт не особо важен для финального проекта, но он умеет проверять не поплыла ли ячейка. В m3gnet и еще одном потенциале поплыла. На mace и sevennnet - нет.
+"""Quick health check + first numbers for MD runs produced by run_md.py.
 
   python quick_check.py runs/LGPS_m3gnet_700K runs/LGPS_m3gnet_900K runs/LGPS_m3gnet_1100K
 
